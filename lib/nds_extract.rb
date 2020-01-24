@@ -34,9 +34,6 @@ def list_of_directors(source)
   directors
 end
 
-arr = list_of_directors(source)
-pp arr
-
 def total_gross(source)
   # Write this implementation
   #
